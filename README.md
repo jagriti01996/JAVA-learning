@@ -145,3 +145,6 @@ Enterprise-level applications: Java is widely used for developing enterprise-lev
 Disadvantages of Java
 Performance: Java can be slower compared to other programming languages, such as C++, due to its use of a virtual machine and automatic memory management.
 Memory management: Java's automatic memory management can lead to slower performance and increased memory usage, which can be a drawback for some applications.
+
+![image](https://media.geeksforgeeks.org/wp-content/uploads/20210218150010/JDK.png)
+https://www.geeksforgeeks.org/differences-jdk-jre-jvm/
