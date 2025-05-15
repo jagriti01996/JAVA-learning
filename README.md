@@ -148,3 +148,10 @@ Memory management: Java's automatic memory management can lead to slower perform
 
 ![image](https://media.geeksforgeeks.org/wp-content/uploads/20210218150010/JDK.png)
 https://www.geeksforgeeks.org/differences-jdk-jre-jvm/
+
+Java is statically typed and also a strongly typed language
+| Concept              | Meaning                                                               |
+| -------------------- | --------------------------------------------------------------------- |
+| **Statically Typed** | Types are checked at **compile time**. Must declare types explicitly. |
+| **Strongly Typed**   | Types are enforced strictly. No silent type conversions.              |
+
