@@ -155,3 +155,4 @@ Java is statically typed and also a strongly typed language
 | **Statically Typed** | Types are checked at **compile time**. Must declare types explicitly. |
 | **Strongly Typed**   | Types are enforced strictly. No silent type conversions.              |
 
+![image](https://media.geeksforgeeks.org/wp-content/uploads/20240809125618/Java-Data-Types.png)
