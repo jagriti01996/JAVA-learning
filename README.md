@@ -156,3 +156,5 @@ Java is statically typed and also a strongly typed language
 | **Strongly Typed**   | Types are enforced strictly. No silent type conversions.              |
 
 ![image](https://media.geeksforgeeks.org/wp-content/uploads/20240809125618/Java-Data-Types.png)
+
+![imge](https://media.geeksforgeeks.org/wp-content/uploads/20241213183254601283/Java-Operators-768.webp)
