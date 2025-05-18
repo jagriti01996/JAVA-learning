@@ -158,3 +158,41 @@ Java is statically typed and also a strongly typed language
 ![image](https://media.geeksforgeeks.org/wp-content/uploads/20240809125618/Java-Data-Types.png)
 
 ![imge](https://media.geeksforgeeks.org/wp-content/uploads/20241213183254601283/Java-Operators-768.webp)
+
+The table below demonstrates the difference between if-else and switch-case.
+
+Features
+
+if-else
+
+switch-case
+
+Use Case
+
+Suitable for condition-based checks
+
+Best for exact value matching
+
+Readability
+
+More readable for a few conditions
+
+More readable and efficient for many cases
+
+Performance
+
+Slower for many checks due to multiple conditions
+
+Faster and optimized for handling many cases
+
+Flexibility
+
+Supports ranges and complex conditions
+
+Only supports exact matches of values
+
+Best Practices for Decision-Making in Java
+Use switch for multiple exact matches, it improves readability.
+Try avoiding deep nesting.
+Always include default in switch for unexpected cases.
+Prefer if-else for range checks.
