@@ -196,3 +196,10 @@ Use switch for multiple exact matches, it improves readability.
 Try avoiding deep nesting.
 Always include default in switch for unexpected cases.
 Prefer if-else for range checks.
+
+When to Use which Loop
+When you want exact iterations, use for loop.
+When you need condition check first, use while loop.
+When you need to run at least once, use do-while loop.
+When you process all collection items, use for-each loop.
+
